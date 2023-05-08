@@ -1,1 +1,14 @@
-# tiktok_video_subtitle
+```
+
+npx expo start
+
+```
+
+&&
+
+```
+
+yarn dev:tailwind
+
+
+```
