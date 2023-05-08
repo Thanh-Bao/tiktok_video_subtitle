@@ -15,10 +15,10 @@ export default function App() {
                 ref={video}
                 style={styles.video}
                 source={require("../assets/big_buck_bunny.mp4")}
-                useNativeControls
                 resizeMode={ResizeMode.COVER}
                 isLooping={true}
                 shouldPlay={true}
+                useNativeControls={false}
             />
 
             <View style={tailwind('pt-12 items-center')}>
